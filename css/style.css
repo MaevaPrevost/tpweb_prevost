@@ -1,1 +1,51 @@
+#influence {
+	background-image: url(img/image1.jpg);
+	background-size: 150%;
+	background-position: center;
+	color:white;
+	text-align: right;
+	font-family:Open Sans;
+}
+
+#influence h2{
+	padding-top:20px;
+	font-size:17px;
+	color: #ebdec2;
+	text-transform: uppercase;
+	margin-left:620px;
+
+}
+
+#influence h1{
+	font-weight: 700;
+	font-size:48px;
+}
+
+#influence a{
+	display:inline flex;
+    width:150px;
+    line-height:50px;
+    text-align:right;
+    background-color:black;
+    border-style: solid;
+    border-width: thin;
+    border-color: #f7b10a;
+    color:#f7b10a;
+    text-decoration:none;
+	padding-left:13.5px;
+    text-transform: uppercase;
+    }
+#influence a:hover {
+        background-color:#b06601;
+        color: #ffd36b;
+    }
+
+div.col-12  {
+	padding-bottom:20px;
+	padding-top:15px;
+}
+
+#influence p{
+	color:#ebdec2;
+}
 
